@@ -28,3 +28,6 @@ The process is delicate, and only the most skilled artisans can control the Forg
 For each enchantment contained in the destroyed book, the Forge will:
 * Consume 1 [Powder of Disenchantment](powder-of-disenchantment).
 * Produce 1 [Parchment](parchment).
+
+## Notes
+v 1.1.0 - Recipe updated to take any Minecraft planks.

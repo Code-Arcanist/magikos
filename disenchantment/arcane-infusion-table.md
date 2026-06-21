@@ -2,7 +2,7 @@
 title: Arcane Infusion Table
 parent: Magikos - Disenchantment
 layout: page
-nav_order: 7y
+nav_order: 7
 ---
 # Arcane Infusion Table
 
@@ -31,3 +31,6 @@ For each enchantment applied to the Enchanted Item, the Infusion table will:
 The codices & experience will be paid when the enchanted item is removed from Slot #3.
 This allows you to play with the set of enchantments that you want to apply.
 Only those enchantments that can be applied to the item will figure in the cost calculation.
+
+## Notes
+v 1.1.0 - Recipe updated to take any Minecraft planks.

@@ -32,4 +32,16 @@ permalink: /about/
 
 ![](twitch.png) [CraftyKazzaH](https://www.twitch.tv/CraftyKazzaH)
 
+## Legas1099
+
+![](youtube.png) [@Legas1099](https://www.youtube.com/@Legas1099)
+
+![](twitch.png) [Legas1099](https://www.twitch.tv/Legas1099)
+
+## GameingWithTheGreg
+
+![](youtube.png) [@GameingWithTheGreg](https://www.youtube.com/@GameingWithTheGreg)
+
+![](twitch.png) [GameingWithTheGreg](https://www.twitch.tv/GameingWithTheGreg)
+
 

@@ -30,3 +30,4 @@ For each enchantment on the Enchanted Item, the Scribing table will:
 
 ## Notes
 v 1.0.0 - The Enchanter's Scribing Table will only process items with a maximum of 8 enchantments.
+v 1.1.0 - Recipe updated to take any Minecraft planks

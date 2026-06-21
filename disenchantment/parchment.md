@@ -13,4 +13,10 @@ This process has imbued the Parchment with a unique power: it can absorb and con
 ![Parchment](images/parchment.png)
 
 ## Recipe
+
+![Parchment](images/recipe-parchment.png)
+
 See [Disenchanting Forge](disenchanting-forge)
+
+## Notes
+v 1.1.0 - Added Recipe to create Parchment that doesn't require so many enchanted books.

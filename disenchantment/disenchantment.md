@@ -28,6 +28,7 @@ So after you have gathered a set of enchanted books & tools that you don't want,
 * Create a [Disenchanting Forge](disenchanting-forge) in a crafting table.
 * Create a [Enchanter's Scribing Table](enchanters-scribing-table) in a crafting table.
 * Create an [Arcane Infusion Table](arcane-infusion-table) in a crafting table.
+* Create an [Codex Combiner](codex-combiner) in a crafting table.
 
 Once the three stations are up and running:
 
